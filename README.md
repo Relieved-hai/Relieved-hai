@@ -7,3 +7,5 @@
 - :pencil2: [notebook](https://relieved-hai.github.io/notebook)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> </em>
+
+![github contribution grid snake animation](https://github.com/Relieved-hai/Relieved-hai/blob/output/github-contribution-grid-snake.svg)
